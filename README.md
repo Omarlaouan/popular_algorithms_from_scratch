@@ -1,4 +1,4 @@
-# popular_algorithms_from_scratch (ongoing)
+# popular_algorithms_from_scratch (ongoing project)
 In this repo, i will implement popular machine learning algorithms from scratch (using only numpy). 
 
 The following algorihtms will be added : 
