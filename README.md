@@ -1,6 +1,8 @@
 # popular_algorithms_from_scratch (ongoing)
-In this repo, i will implement popular machine learning algorithms from scratch (using only numpy)
+In this repo, i will implement popular machine learning algorithms from scratch (using only numpy). 
+
 The following algorihtms will be added : 
+
 Machine learning : 
 - Linear regression
 - Logistic regression
